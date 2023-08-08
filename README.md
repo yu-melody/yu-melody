@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a driven second-year Computer Science student at Northeastern University, with a passion for teaching and a knack for collaborative project design and completion. Through my coursework, I have gained a strong technical foundation, and my experience in teaching has sharpened my communication and organizational skills. I am eager to leverage my expertise and enthusiasm to contribute to innovative projects and foster meaningful collaborations.
+
+🌱 I’m currently learning how to code a website from scratch using CSS and HTML! I've never worked with frontend development before, so it's super exciting working with the visual design process.
+
+
 <!--
 **melodyyu754/melodyyu754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
