@@ -2,7 +2,7 @@
 
 I am a driven third-year Computer Science student at Northeastern University, with a passion for teaching and a knack for collaborative project design and completion. Through my coursework, I have gained a strong technical foundation, and my experience in teaching has sharpened my communication and organizational skills. I am eager to leverage my expertise and enthusiasm to contribute to innovative projects and foster meaningful collaborations.
 
-🌱 I’m currently learning how to code a website from scratch using CSS and HTML! I've never worked with frontend development before, so it's super exciting working with the visual design process.
+🌱 I’m currently interning at Babel Street, working on a name-matching product that supports multilingual data! I've become quite the word nerd and am an ardent aficionado of the NYT's word games.
 
 
 <!--
