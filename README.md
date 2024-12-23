@@ -1,9 +1,6 @@
 ## Hi there 👋
 I’m Melody! I study Computer Science and Philosophy at Northeastern University. I love writing clean code, product management, and figuring out what it means to be human.
 
-### Why CS + Philosophy?
-For me, computer science offers tools to create and innovate, while philosophy brings clarity to my life and the purpose behind my work. Together, they drive me to stay curious and ask questions—about technology, about humanity, and about the intersection of the two.
-
 🌱 I'm currently working on dayloom, an automated hardware/software system to streamline my morning and evening routines. This project is funded by the Honors Propel Grant!
 
 
