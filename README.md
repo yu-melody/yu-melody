@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m Melody! I study Computer Science and Philosophy at Northeastern University. I love writing clean code, product management, and figuring out what it means to be human. When I'm not coding or pondering the good life, I can be found playing bananagrams with friends, baking pumpking pie, or gallivanting through the great outdoors.
+I’m Melody! I study Computer Science and Philosophy at Northeastern University. I love writing clean code, product management, and figuring out what it means to be human. When I'm not coding or pondering the good life, I can be found playing bananagrams with friends, baking pumpkin pie, or gallivanting through the great outdoors.
 
 🌱 I'm currently working on dayloom, an automated hardware/software system to streamline my morning and evening routines. This project is funded by the Honors Propel Grant!
 
