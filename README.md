@@ -1,8 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+I’m Melody! I study Computer Science and Philosophy at Northeastern University. I love writing clean code, product management, and figuring out what it means to be human.
 
-I am a driven third-year Computer Science student at Northeastern University, with a passion for teaching and a knack for collaborative project design and completion. Through my coursework, I have gained a strong technical foundation, and my experience in teaching has sharpened my communication and organizational skills. I am eager to leverage my expertise and enthusiasm to contribute to innovative projects and foster meaningful collaborations.
+### Why CS + Philosophy?
+For me, computer science offers tools to create and innovate, while philosophy brings clarity to my life and the purpose behind my work. Together, they drive me to stay curious and ask questions—about technology, about humanity, and about the intersection of the two.
 
-🌱 I’m currently interning at Babel Street, working on a name-matching product that supports multilingual data! I've become quite the word nerd and am an ardent aficionado of the NYT's word games.
+🌱 I'm currently working on dayloom, an automated hardware/software system to streamline my morning and evening routines. This project is funded by the Honors Propel Grant!
 
 
 <!--
